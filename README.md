@@ -2,7 +2,7 @@
 # Roger Mañé Sans
 <!--Sobre Mi-->
 ## Sobre Mi
-Soy una persona organizada, perfeccionista; me gusta hacer las cosas bien. También trabajo bien en equipo y soy comunicativo. Me encanta aprender cosas nuevas y perfeccionar las que ya conozco. Llevo interesado en la informática desde bien pequeño y al principio aprendía por mi cuenta buscando información. Ahora estoy en un curso de desarrollo de aplicaciones web y, por mi cuenta, sigo informándome de otros tipos de desarrollo.
+Soy una persona organizada, perfeccionista; me gusta hacer las cosas bien. Me encanta aprender cosas nuevas y perfeccionar las que ya conozco. Llevo interesado en la informática desde bien pequeño y al principio aprendía por mi cuenta buscando información. Ahora estoy en un curso de desarrollo de aplicaciones web y, por mi cuenta, sigo informándome de otros tipos de desarrollo.
 <!--Tecnologies-->
 ## Tecnologias Conocidas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
