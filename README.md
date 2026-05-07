@@ -13,5 +13,5 @@ Soy una persona organizada, me gusta hacer las cosas bien. Me encanta aprender c
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Contacto
-Email: rogermane2004@gmail.com \
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-ma%C3%B1%C3%A9-sans-55078938a/)   
+[![Email](https://img.shields.io/badge/email-rogermane2004%40gmail.com-fb542b?style=for-the-badge)](mailto:rogermane2004@gmail.com) \
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-ma%C3%B1%C3%A9-sans-55078938a/)   
